@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/css/styleLogin.css</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/Menu.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/Footer.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/BillManager.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/css/style.css</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/mail/contact.js</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/Register.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/index.html</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/controller/CustomerController.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/model/Brand.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/dal/BillDAO.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/Content.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/model/CartItem.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/AccessDenied.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/dal/BrandDAO.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/dal/UserDAO.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/model/Bill.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/dal/OrderDAO.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/index.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/Panner.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/dal/ProductDAO.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/js/main.js</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/controller/ManageProductController.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/CustomerManager.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/ProductManager.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/controller/ManageCustomerController.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/model/OrderDetail.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/model/Product.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/css/style.min.css</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/admin.index.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/controller/CartController.java</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/web/Cart.jsp</file>
+            <file>file:/C:/Users/ducta/OneDrive/Documents/%5BSE%20-%20Docs%5D/%5B4th%20-%20SP24%5D/PRJ/examples/EShopper/src/java/controller/AdminController.java</file>
+        </group>
+    </open-files>
+</project-private>
