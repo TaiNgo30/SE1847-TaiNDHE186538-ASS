@@ -131,7 +131,7 @@
                         <a
                             class="text-dark font-weight-semi-bold"
                             href="https://htmlcodex.com"
-                            >Enric Van</a
+                            >Ngo Duc Tai</a
                         >
                     </p>
                 </div>
